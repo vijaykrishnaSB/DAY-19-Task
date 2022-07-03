@@ -8,22 +8,22 @@ table {
 }
 
 input {
-    border-radius: 25px;
+    border-radius: 15px;
     border: 3px solid;
-    font-size: 40px;
+    font-size: 18px;
 }
 
 button{
-    font-size: 35px;
+    font-size: 25px;
     background-color: white;
-    width: 125px;
-    height: 60px;
-    border-radius: 25px;
+    width: 65px;
+    height: 50px;
+    border-radius: 15px;
 }
 
 .calculator {
     display: inline-block;
     padding: 22px;
-    border-radius: 50px;
-    background-color:gray;
+    border-radius: 10px;
+    background-color:rgb(58, 54, 54);
 }
